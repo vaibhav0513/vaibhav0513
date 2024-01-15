@@ -14,12 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Vaibhav Tupe</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h1 align="center">Hello 👋, I'm Vaibhav Tupe</h1>
+<h3 align="center">A passionate Frontend Developer!</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav0513&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav0513" /> </p>
 
+- 📫 Computer Engineer
+  
 - 🌱 I’m currently learning **Full Stack Java Developer**
 
 - 💬 Ask me about **JavaScript,HTML,CSS,Bootstrap,SQL,React JS**
